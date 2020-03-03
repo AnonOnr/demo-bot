@@ -10,6 +10,10 @@
 </p>
 
 ![Node.js CI](https://github.com/OnurErtugral/react-image-comparison-slider/workflows/Node.js%20CI/badge.svg)
+<a href="https://github.com/OnurErtugral/react-image-comparison-slider/blob/master/LICENSE">
+<img src="https://img.shields.io/github/license/onurertugral/react-image-comparison-slider" alt="License MIT">
+</a>
+
 [![Code Coverage][coverage-badge]][coverage]
 [![version][version-badge]][package] [![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][license]
