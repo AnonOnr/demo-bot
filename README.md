@@ -50,23 +50,23 @@ import ImageSlider from "react-image-comparison-slider";
 
 ## Props
 
-| Props                 |    Type     | Default | Description                                               |
-| --------------------- | :---------: | :-----: | --------------------------------------------------------- |
-| image1                |   string    |    -    | First image's source (URL, base64 string etc.)            |
-| image2                |   string    |    -    | Second image's source (URL, base64 string etc.)           |
-| alt1                  |   string    | `alt1`  | First image's alt text                                    |
-| alt2                  |   string    | `alt2`  | Second image's alt text                                   |
-| sliderColor           |   number    |  `red`  | Slider's color. Should be valid CSS color expression.     |
-| sliderWidth           |   number    |    4    | Slider's width in pixel.                                  |
-| showHandle            |   boolean   |  true   | If false, hides slider handle.                            |
-| handleBackgroundColor |   string    | "white" | Background color of the slider's handle.                  |
-| handleColor           |   string    |  "red"  | Background color of the triangles on the slider's handle. |
-| customHandle          | DOM Element |  null   | Renders the passed DOM element as a slider handle.        |
-| sliderInitialPosition |   number    |   0.5   | Slider's initial position between 0 and 1.                |
-| leftLabelText         |   string    |  null   | A label for the first image.                              |
-| rightLabelText        |   string    |  null   | A label for the second image.                             |
-| showPlaceholder       |   boolean   |  true   | Set placeholder's visibility.                             |
-| customPlaceholder     | DOM Element |  null   | Pass your custom placeholder component/element.           |
+| Props                 |    Type     |  Default  | Description                                               |
+| --------------------- | :---------: | :-------: | --------------------------------------------------------- |
+| image1                |   string    |     -     | First image's source (URL, base64 string etc.)            |
+| image2                |   string    |     -     | Second image's source (URL, base64 string etc.)           |
+| alt1                  |   string    | `"alt1"`  | First image's alt text                                    |
+| alt2                  |   string    | `"alt2"`  | Second image's alt text                                   |
+| sliderColor           |   string    |  `"red"`  | Slider's color. Should be valid CSS color expression.     |
+| sliderWidth           |   number    |     4     | Slider's width in pixel.                                  |
+| showHandle            |   boolean   |   true    | If false, hides slider handle.                            |
+| handleBackgroundColor |   string    | `"white"` | Background color of the slider's handle.                  |
+| handleColor           |   string    |  `"red"`  | Background color of the triangles on the slider's handle. |
+| customHandle          | DOM Element |   null    | Renders the passed DOM element as a slider handle.        |
+| sliderInitialPosition |   number    |    0.5    | Slider's initial position between 0 and 1.                |
+| leftLabelText         |   string    |   null    | A label for the first image.                              |
+| rightLabelText        |   string    |   null    | A label for the second image.                             |
+| showPlaceholder       |   boolean   |   true    | Set placeholder's visibility.                             |
+| customPlaceholder     | DOM Element |   null    | Pass your custom placeholder component/element.           |
 
 ## Callbacks
 
