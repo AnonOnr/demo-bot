@@ -9,6 +9,16 @@
   <i>Click above to play with <b>the live demo</b>.</i>
 </p>
 
+![Node.js CI](https://github.com/OnurErtugral/react-image-comparison-slider/workflows/Node.js%20CI/badge.svg)
+[![Code Coverage][coverage-badge]][coverage]
+[![version][version-badge]][package] [![downloads][downloads-badge]][npmtrends]
+[![MIT License][license-badge]][license]
+
+[![PRs Welcome][prs-badge]][prs] [![Code of Conduct][coc-badge]][coc]
+
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
+
 </div>
 
 ## Installation
