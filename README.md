@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/github/license/onurertugral/react-image-comparison-slider" alt="License MIT" />
 </a>
 
+<br/>
 <img src="https://img.shields.io/bundlephobia/minzip/react-image-comparison-slider" alt="Gzipped Size" />
 
 </div>
