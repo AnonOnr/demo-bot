@@ -10,12 +10,16 @@
 </p>
 
 ![Node.js CI](https://github.com/OnurErtugral/react-image-comparison-slider/workflows/Node.js%20CI/badge.svg)
-<a href="https://github.com/OnurErtugral/react-image-comparison-slider/blob/master/LICENSE">
-<img src="https://img.shields.io/github/license/onurertugral/react-image-comparison-slider" alt="License MIT" />
-</a>
+
 <a href="https://www.npmjs.com/package/react-image-comparison-slider">
 <img src="https://img.shields.io/npm/v/react-image-comparison-slider" alt="NPM package" />
 </a>
+
+<a href="https://github.com/OnurErtugral/react-image-comparison-slider/blob/master/LICENSE">
+<img src="https://img.shields.io/github/license/onurertugral/react-image-comparison-slider" alt="License MIT" />
+</a>
+
+<img src="https://img.shields.io/bundlephobia/minzip/react-image-comparison-slider" alt="Gzipped Size" />
 
 </div>
 
