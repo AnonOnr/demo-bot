@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/github/license/onurertugral/react-image-comparison-slider" alt="License MIT">
 </a>
 
+<a href="https://www.npmjs.com/package/react-image-comparison-slider">
+    <img src="https://img.shields.io/npm/v/react-image-comparison-slider" alt="NPM package">
+</a>
+
 [![Code Coverage][coverage-badge]][coverage]
 [![version][version-badge]][package] [![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][license]
