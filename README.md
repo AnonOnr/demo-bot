@@ -68,7 +68,7 @@ import ImageSlider from "react-image-comparison-slider";
 | showPlaceholder       |   boolean   |  true   | Set placeholder's visibility.                             |
 | customPlaceholder     | DOM Element |  null   | Pass your custom placeholder component/element.           |
 
-### Callbacks
+## Callbacks
 
 | Props              |   Type   | Default | Description                                                            |
 | ------------------ | :------: | :-----: | ---------------------------------------------------------------------- |
@@ -79,7 +79,7 @@ import ImageSlider from "react-image-comparison-slider";
 | onErrorFirstImage  | function |    -    | Is invoked when an error occurs loading the first image                |
 | onErrorSecondImage | function |    -    | Is invoked when an error occurs loading the second image               |
 
-### Animation
+## Animation
 
 | Props                  |  Type   | Default | Description                          |
 | ---------------------- | :-----: | :-----: | ------------------------------------ |
